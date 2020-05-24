@@ -1,3 +1,5 @@
+#Day1;Area of Triangle
+
 #include<iostream>
 using namespace.std
 int main()
