@@ -4,7 +4,7 @@
 using namespace.std;
 int main()
 {
-int n;sum;
+int n,sum;
 cout<<"Enter the value of n";
 cin>>n;
 sum=n*(n+1)/2;
