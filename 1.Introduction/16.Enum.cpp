@@ -8,6 +8,6 @@ int main()
 day d;
 d=mon;           #you can assign the value mentioned in here
 cout<<d<<endl;
-return0;
+return 0;
 }
 
