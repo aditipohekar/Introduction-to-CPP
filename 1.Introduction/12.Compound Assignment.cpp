@@ -7,6 +7,6 @@ int main()
 int sum=10;
 int sum=5;
 sum+=x;
-cout<<"sum;
+cout<<sum;
 return 0;
 }
