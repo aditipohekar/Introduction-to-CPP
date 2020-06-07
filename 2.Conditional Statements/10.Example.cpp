@@ -2,10 +2,6 @@
 #include<math.h>
 using namespace std;
     
-/*program for find nature of quadratic roots 
-
-
-*/
 int main() 			
  {
 	
